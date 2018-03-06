@@ -537,11 +537,11 @@
 		/**
 		 * New in 1.6.2
 		 */
-		"coupons" => "Coupons",
-		"add_cou" => "Ajouter coupon",
-		"edit_cou" => "Editer coupon",
-		"select_cou" => "Selectionner coupon",
-		"sure_cou" => "Etes vous sûr de vouloir supprimer ce coupon ?",
+		"coupons" => "Code promo",
+		"add_cou" => "Ajouter un code de promo",
+		"edit_cou" => "Editer un code promo",
+		"select_cou" => "Selectionner un code promo",
+		"sure_cou" => "Etes vous sûr de vouloir supprimer ce code promo ?",
 		"coupon_text" => "Si vous avez un code de promotion, vous pouvez le rajouter ici :)",
 	);
 
